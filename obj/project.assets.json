@@ -11507,17 +11507,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bruger/Desktop/LassesFlufferPage/LassesFlufferPage.csproj",
+      "projectUniqueName": "/Users/bruger/Desktop/LasseFlufGit/FlufferProject/LassesFlufferPage.csproj",
       "projectName": "LassesFlufferPage",
-      "projectPath": "/Users/bruger/Desktop/LassesFlufferPage/LassesFlufferPage.csproj",
+      "projectPath": "/Users/bruger/Desktop/LasseFlufGit/FlufferProject/LassesFlufferPage.csproj",
       "packagesPath": "/Users/bruger/.nuget/packages/",
-      "outputPath": "/Users/bruger/Desktop/LassesFlufferPage/obj",
+      "outputPath": "/Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/bruger/.config/NuGet/NuGet.Config"
+        "/Users/bruger/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -11542,17 +11542,17 @@
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.1.1"
+            "version": "[2.1.1, )",
+            "autoReferenced": true
           },
           "Microsoft.AspNetCore.Razor.Design": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.1.2"
+            "version": "[2.1.2, )"
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
-            "version": "2.1",
+            "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },
