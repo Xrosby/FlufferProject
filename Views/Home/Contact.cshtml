@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3><br>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+                             <script src="~/js/about.js"></script>
+
+<form class="contact-fluffer">
+
+    <div class="row">
+        <div class="col-md-2">
+            <p>Name</p><br>
+        </div>
+        <div class="col-md-3">
+            <input type="text" id="input-name">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <p>Contact number</p><br>
+        </div>
+        <div class="col-md-3">
+            <input type="text" id="input-number">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <p>Street name</p><br>
+        </div>
+        <div class="col-md-3">
+            <input type="text" id="input-street-name">
+        </div>
+    </div>
+   
+    <br>
+
+    <button id="send-button">Contact the dick machine!</button>
+
+</form>
