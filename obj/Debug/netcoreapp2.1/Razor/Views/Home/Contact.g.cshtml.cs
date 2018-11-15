@@ -83,7 +83,7 @@ Write(ViewData["Message"]);
             WriteLiteral("</h3><br>\r\n\r\n\r\n<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js\"></script>\r\n                             ");
             EndContext();
             BeginContext(230, 37, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "611b69bd27d545d09958441bc1a29a17", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "09b8ad8383ed4368a89aafef7ca9f854", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -101,7 +101,7 @@ Write(ViewData["Message"]);
             WriteLiteral("\r\n\r\n");
             EndContext();
             BeginContext(271, 778, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2ccca4ba25d54ef98b3cec2766e2d2d7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f99351d8b9134534b91a7f95cde2ee5b", async() => {
                 BeginContext(301, 741, true);
                 WriteLiteral(@"
 
