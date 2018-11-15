@@ -1,5 +1,16 @@
 ﻿<Properties StartupConfiguration="{FF0608CC-4C07-43D8-90F7-212EA5B4FF9A}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Views/Home/About.cshtml" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="17" Column="1" />
+      <File FileName="Startup.cs" Line="59" Column="73" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Controllers/ProductController.cs" Line="21" Column="27" />
+      <File FileName="Views/Home/ProductList.cshtml" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

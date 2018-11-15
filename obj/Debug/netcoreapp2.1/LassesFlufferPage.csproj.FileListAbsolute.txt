@@ -61,4 +61,5 @@
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Debug/netcoreapp2.1/LassesFlufferPage.dll
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Debug/netcoreapp2.1/LassesFlufferPage.pdb
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Debug/netcoreapp2.1/LassesFlufferPage.csproj.CopyComplete
-/Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Debug/netcoreapp2.1/LassesFlufferPage.csprojAssemblyReference.cache
+/Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Debug/netcoreapp2.1/LassesFlufferPage.csprojResolveAssemblyReference.cache
+/Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Debug/netcoreapp2.1/Razor/Views/Home/ProductList.g.cshtml.cs
