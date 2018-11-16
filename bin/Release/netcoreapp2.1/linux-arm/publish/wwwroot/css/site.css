@@ -46,7 +46,7 @@ body {
 }
 
 #frontpage-image{
-    width: 300px;
-    height: 300px;
+    max-width: 40%;
+    max-height: 30%;
 }
 

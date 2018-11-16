@@ -5,7 +5,6 @@
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/bin/Release/netcoreapp2.1/LassesFlufferPage.pdb
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/bin/Release/netcoreapp2.1/LassesFlufferPage.Views.dll
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/bin/Release/netcoreapp2.1/LassesFlufferPage.Views.pdb
-/Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Release/netcoreapp2.1/LassesFlufferPage.csprojAssemblyReference.cache
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Release/netcoreapp2.1/LassesFlufferPage.csproj.CoreCompileInputs.cache
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Release/netcoreapp2.1/LassesFlufferPage.RazorAssemblyInfo.cache
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Release/netcoreapp2.1/LassesFlufferPage.RazorAssemblyInfo.cs

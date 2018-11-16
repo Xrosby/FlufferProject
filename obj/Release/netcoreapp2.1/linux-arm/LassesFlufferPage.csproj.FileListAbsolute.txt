@@ -21,7 +21,6 @@
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Release/netcoreapp2.1/linux-arm/Razor/Views/Home/Contact.g.cshtml.cs
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Release/netcoreapp2.1/linux-arm/Razor/Views/Home/Index.g.cshtml.cs
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Release/netcoreapp2.1/linux-arm/Razor/Views/Home/Privacy.g.cshtml.cs
-/Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Release/netcoreapp2.1/linux-arm/Razor/Views/Home/ProductList.g.cshtml.cs
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Release/netcoreapp2.1/linux-arm/Razor/Views/Shared/Error.g.cshtml.cs
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Release/netcoreapp2.1/linux-arm/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Release/netcoreapp2.1/linux-arm/Razor/Views/Shared/_Layout.g.cshtml.cs
