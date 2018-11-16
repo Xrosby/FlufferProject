@@ -62,3 +62,4 @@
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Debug/netcoreapp2.1/LassesFlufferPage.dll
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Debug/netcoreapp2.1/LassesFlufferPage.pdb
 /Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Debug/netcoreapp2.1/LassesFlufferPage.csproj.CopyComplete
+/Users/bruger/Desktop/LasseFlufGit/FlufferProject/obj/Debug/netcoreapp2.1/LassesFlufferPage.csprojResolveAssemblyReference.cache
